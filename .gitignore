@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Пакеты
+*.egg
+*.whl
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Конфиденциальные файлы
+.env
